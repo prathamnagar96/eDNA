@@ -1,0 +1,3 @@
+echo "__pycache__/" >> .gitignore
+echo "*.npy" >> .gitignore
+echo ".env" >> .gitignore
